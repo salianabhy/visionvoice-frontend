@@ -7,7 +7,7 @@ import { useState, useEffect } from "react";
 import CameraView from "./components/CameraView";
 import "./App.css";
 
-const API_URL = "https://visionvoice-backend.onrender.com";
+const API_URL = "https://visionvoicee.onrender.com";
 
 export default function App() {
   const [backendStatus, setBackendStatus] = useState("checking");
