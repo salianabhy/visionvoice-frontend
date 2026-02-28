@@ -22,7 +22,7 @@
 
 import { useRef, useState, useEffect, useCallback } from "react";
 
-const BACKEND        = "https://visionvoice-backend.onrender.com";
+const BACKEND        = "https://visionvoicee.onrender.com";
 const CAPTURE_EVERY  = 7000;  // 7s between AI calls
 const JPEG_QUALITY   = 0.92;
 const EDGE_INTERVAL  = 80;    // ~12fps edge redraw
