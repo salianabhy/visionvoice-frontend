@@ -5,7 +5,7 @@
 
 import AudioPlayer from "./AudioPlayer";
 
-const BACKEND = "https://visionvoice-backend.onrender.com";
+const BACKEND = "https://visionvoicee.onrender.com";
 
 export default function DescriptionResult({ description, audioUrl, error }) {
 
